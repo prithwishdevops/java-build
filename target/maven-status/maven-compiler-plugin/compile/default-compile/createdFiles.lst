@@ -1,4 +1,3 @@
-com\example\demo\DemoApplication.class
-META-INF\spring-configuration-metadata.json
-com\example\demo\HelloController.class
-com\example\demo\HelloProperties.class
+com/example/devops/web/WelcomeController.class
+com/example/devops/DevopsApplication.class
+com/example/devops/ServletInitializer.class

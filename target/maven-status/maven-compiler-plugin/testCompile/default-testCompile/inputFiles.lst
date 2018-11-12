@@ -1,1 +1,2 @@
-C:\Users\IBM_ADMIN\java-build\src\test\java\com\example\demo\DemoApplicationTests.java
+/root/devops/src/test/java/com/example/devops/DevopsApplicationTests.java
+/root/devops/src/test/java/com/example/devops/web/WelcomeControllerTest.java
