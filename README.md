@@ -5,3 +5,5 @@ Test01
 Test02
 
 Gitflow Commands Execution
+
+Change in local master
