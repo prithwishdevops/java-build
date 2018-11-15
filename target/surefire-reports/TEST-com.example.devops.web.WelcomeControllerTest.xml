@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testsuite name="com.example.devops.web.WelcomeControllerTest" time="0.922" tests="1" errors="0" skipped="0" failures="0">
+=======
+<testsuite name="com.example.devops.web.WelcomeControllerTest" time="0.849" tests="1" errors="0" skipped="0" failures="0">
+>>>>>>> origin/develop
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
@@ -61,5 +65,9 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
+<<<<<<< HEAD
   <testcase name="testWelcome" classname="com.example.devops.web.WelcomeControllerTest" time="0.922"/>
+=======
+  <testcase name="testWelcome" classname="com.example.devops.web.WelcomeControllerTest" time="0.849"/>
+>>>>>>> origin/develop
 </testsuite>

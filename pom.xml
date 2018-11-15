@@ -75,7 +75,11 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
+<<<<<<< HEAD
 		</dependency>
+=======
+		</dependency>	
+>>>>>>> origin/develop
 	</dependencies>
 
 	<build>
