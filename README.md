@@ -10,4 +10,4 @@ Change in local master
 
 Change in local develop
 
-Github integration
+Github integration with jenkins
