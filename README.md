@@ -10,4 +10,4 @@ Change in local master
 
 Change in local develop
 
-Github integration with jenkins FreeStyle
+Github integration with jenkins FreeStyle Jobs
