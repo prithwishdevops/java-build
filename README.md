@@ -9,3 +9,5 @@ Gitflow Commands Execution
 Change in local master
 
 Change in local develop
+
+Github integration with jenkins FreeStyle Jobs
